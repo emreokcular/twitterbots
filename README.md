@@ -2,11 +2,11 @@
 
 API + creativity + Twitter = awesomeness!
 
-In this repo you can find list of Twitter bot ideas and its implementations with Tweepy.
+In this repo you can find list of Twitter bot ideas and its implementations with [Tweepy](https://www.tweepy.org/).
 
 ## Twitter Bots:
 
-1. Random Words Twitter Bot - *Created in January*
+1. [Random Words Twitter Bot](https://twitter.com/kelimebot) - *Created in January*
 
 Randomly combines word pairs from dictionary.
 
