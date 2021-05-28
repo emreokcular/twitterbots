@@ -30,7 +30,7 @@ First, check your Python version with ``python3 --version`` or ``python --versio
 
 #### If you don't have Python 3 installed (if the above command fails):
 
-Either install Python 3 on your computer OR use something like PythonAnywhere (https://csdojo.io/py).
+Install Python 3 on your computer (https://www.python.org/downloads/).
 
 #### If you have Python 3.6, you can just run:
 
