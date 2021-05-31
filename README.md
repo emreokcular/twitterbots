@@ -1,6 +1,6 @@
 # Twitter bot ideas and implementations
 
-API + creativity + Twitter = awesomeness!
+API + creativity + Twitter = awesomeness
 
 In this repo you can find list of Twitter bot ideas and its implementations with [Tweepy](https://www.tweepy.org/).
 
@@ -12,15 +12,15 @@ Randomly combines word pairs from dictionary.
 
 2. Average Score Calculator Bot - *Loading*
 
-Calulates average score from the replies of mentioned tweet.
+Calculates average score from the replies of mentioned tweet.
 
 3. Trending words bot - *Loading*
 
-Application of topic modelling for tweets. Most tweeted words are categorized with NMF and LDA methods daily.
+Topic modelling application for tweets. Most tweeted words are categorized as topics with NMF and LDA methods daily.
 
 4. Viral Bot - *Loading*
 
-Curated lis of top tweeted url links other than top lists in spotify and youtube trending.
+Curated list of top tweeted url links other than top lists in Spotify and Youtube trending.
 
 ## Set up notes
 
