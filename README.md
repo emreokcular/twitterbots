@@ -49,6 +49,8 @@ If the above command doesn't work, try replacing ``pip3`` with ``pip`` also.
 ---
 
 ## Files
-- **twitter_bot.py** - This is the main file that includes all the logic.
+- **bot.py** - This is the main file that includes all the logic.
+- **helpers.py** - Helper functions used in the main logic.
+- **keys.csv** - The keys and secrets from Twitter in the order ```consumer_key, consumer_secret, access_token, access_token_secret```
 - **archive.txt** - This file contains all the generated word collections and also tweets.
 - **clean_words.txt** - List of all words in dictionary paired with types such as noun,verb, adverb etc.
