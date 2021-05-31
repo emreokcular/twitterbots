@@ -54,3 +54,9 @@ If the above command doesn't work, try replacing ``pip3`` with ``pip`` also.
 - **keys.csv** - The keys and secrets from Twitter in the order ```consumer_key, consumer_secret, access_token, access_token_secret```
 - **archive.txt** - This file contains all the generated word collections and also tweets.
 - **clean_words.txt** - List of all words in dictionary paired with types such as noun,verb, adverb etc.
+
+---
+
+## Starting the bot
+
+```python bot.py keys.csv```
